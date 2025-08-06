@@ -17,7 +17,9 @@ This project uses machine learning to predict the likelihood of earthquakes base
 ## 📁 Files
 - `model.py` – main code
 - `earthquake_data.csv` – dataset
-- `confusion_matrix.png` – output graph
+- `confusion_matrix.jpg` – output graph
+- 'main.py' - extra code
+- 'model.jpg'- model image
 
 ## 🔍 How to Run
 ```bash
